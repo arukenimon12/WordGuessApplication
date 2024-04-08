@@ -123,7 +123,7 @@ namespace WordGuessApplication
         
         void RandomQuestion()
         {
-            word = words[rand.Next(0, words.Length - 1)];//YAWAcxzasdasds
+            word = words[rand.Next(0, words.Length - 1)];//YAWAcxzasdasdsasd
         }
         string question = null;
         void Setup()
